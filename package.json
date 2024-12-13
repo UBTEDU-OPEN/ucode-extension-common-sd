@@ -1,0 +1,16 @@
+{
+  "name": "@ubtech/ucode-extension-common-sdk",
+  "version": "1.4.1",
+  "license": "MIT",
+  "main": "index.umd.js",
+  "module": "index.esm.js",
+  "types": "extension-common/sdk/index.d.ts",
+  "author": "ubtech <swenggroup@ubtrobot.com>(https://www.ubtrobot.com/)",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/UBTEDU-OPEN/ucode-extension-common-sdk"
+  }
+}

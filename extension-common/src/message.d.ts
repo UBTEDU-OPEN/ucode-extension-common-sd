@@ -1,0 +1,28 @@
+declare const _default: {
+    SerialPortDeviceTypeName: string;
+    BleDeviceTypeName: string;
+    BLE_NOT_SUPPORT: string;
+    BLE_NOT_SUPPORT_HTTPS: string;
+    BLE_NOT_AVAILABLE: string;
+    BLE_LOCATION_PERMISSION_OPEN: string;
+    BLE_PERMISSION_DENIED: string;
+    BLE_USER_CANCEL: string;
+    BLE_SELECT_DEVICE_FAILED: string;
+    BLE_CONNECT_FAILED: string;
+    SP_CONNECT_FAILED: string;
+    SP_RECONNECT_FAILED: string;
+    SP_PORT_BUSY: string;
+    SP_PORT_NOT_FOUND: string;
+    TCP_REFUSED: string;
+    TCP_CONNECT_TIMEOUT: string;
+    TCP_CONNECT_RESET: string;
+    UDP_ADDR_IN_USED: string;
+    OFFLINE_ERROR: string;
+    UCODE_LINK_NOT_READY: string;
+    UCODE_LINK_NOT_READY_TITLE: string;
+    UCODE_LINK_DOWNLOAD_TEXT: string;
+    UCODE_LINK_START_TEXT: string;
+    UCODE_LINK_START_TIMEOUT: string;
+    CONNECTION_FAILED_TITLE: string;
+};
+export default _default;

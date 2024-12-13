@@ -1,0 +1,3 @@
+import { UcdBlock } from '../../../../types/ucd';
+export declare const EXAMPLE_DATA: UcdBlock.SerializedData;
+export declare const EXPECT_RESULT = "// Define Variable: [peUDi0HytZ]-[\u6211\u7684\u53D8\u91CF]\nfloat peUDi0HytZ = 0;\n\n/** Define Custom Function: [JeUMFlC4tW]-[\u6211\u7684\u51FD\u65701 %s %b]\n**  Arguments: \u53C2\u65701 \u6570\u5B57 \u53C2\u65702 \u5E03\u5C14\n**/\nvoid JeUMFlC4tW(float O9tKsYCAcK, boolean MQH6fxuzhD) {\n    testDeviceMsg(\"hello\");\n    delay(1 * 1000);\n}\n\n\nvoid setup() {\n    while (true) {\n        // Call Custom Function: [JeUMFlC4tW]-[\u6211\u7684\u51FD\u65701 %s %b], arguments: [1]\n        JeUMFlC4tW(1, false);\n    }\n}\n\n\nvoid loop() {\n    testDeviceMsg(\"hello\");\n    if (false){\n\n    }\n}\n";
